@@ -1,0 +1,21 @@
+.parent{
+ background-color: orange;
+ color: black;
+ padding: 20px;
+ padding-left: 50px;
+}
+
+.one{
+    background-color: red;
+    padding: 30px;
+    border: 1px solid black;
+}
+
+.two{
+    padding: 30px; 
+    border: 1px solid black;
+}
+
+p{
+    font-size: 20px;
+}
